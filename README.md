@@ -4,21 +4,19 @@
     <p>
         <a href="#Tandem-approach-for-short-text-clustering">Tandem approach for short text clustering</a> •
         <a href="#Installation">Installation</a> •
-        <a href="#Experiments">Experiments-and-results</a>
+        <a href="#Experiments-and-results">Experiments and results</a>
     <p>
 </h4>
 
 <h3 align="center">
-    <a href="https://www.iledefrance.fr/"><img style="float: middle; padding: 10px 10px 10px 10px;" width="250" height="160" src="assets/clust.png" /></a>
+    <a href="https://www.iledefrance.fr/"><img style="float: middle; padding: 10px 10px 10px 10px;" width="400" height="260" src="assets/clust.png" /></a>
 </h3>
 
 
 # Tandem approach for short text clustering
 
-The tandem approach in clustering combines dimen-
-sionality reduction, which reduces the complexity of
-data while retaining relevant information, with clus-
-tering, which groups similar data point
+The tandem approach in clustering combines dimensionality reduction, which reduces the complexity of
+data while retaining relevant information, with clustering, which groups similar data point
 
 # Installation
 
