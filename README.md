@@ -2,9 +2,9 @@
 
 <h4 align="center">
     <p>
-        <a href="#Objectif">Objectif</a> •
-        <a href="#Les-fonctionnalités">Les fonctionnalités</a> •
-        <a href="#Lancement">Lancement</a> •
+        <a href="#Tandem-approach-for-short-text-clustering">Tandem approach for short text clustering</a> •
+        <a href="#Installation">Installation</a> •
+        <a href="#Experiments">Experiments-and-results</a>
     <p>
 </h4>
 
@@ -23,7 +23,7 @@ tering, which groups similar data point
 # Installation
 
 
-# Results
+# Experiments and results
 
 Let's check results in table below, biomedical, stackoverflow and searchsnippets (top to bottom resp.). We apply on  HuggingFace embedding () UMAP dimensionality reduction followed by clustering algorithm like skmeans++ or sphérical-kmeans++. Important results are highlighted.
 
