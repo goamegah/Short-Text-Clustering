@@ -9,14 +9,21 @@
 </h4>
 
 <h3 align="center">
-    <a href="https://www.iledefrance.fr/"><img style="float: middle; padding: 10px 10px 10px 10px;" width="200" height="150" src="assets/clust.png" /></a>
+    <a href="https://www.iledefrance.fr/"><img style="float: middle; padding: 10px 10px 10px 10px;" width="250" height="160" src="assets/clust.png" /></a>
 </h3>
 
 
-# Objectif
- **Mlapp-RShiny** est une application permettant une exploration et l'application de modèle de Machine Learning sur les datasets intégrés. Vous avez également la possibilité d'interagir avec l'application au travers de vos propres datasets.
+# Tandem approach for short text clustering
 
-# Les Résultats
+The tandem approach in clustering combines dimen-
+sionality reduction, which reduces the complexity of
+data while retaining relevant information, with clus-
+tering, which groups similar data point
+
+# Installation
+
+
+# Results
 
 Let's check results in table below, biomedical, stackoverflow and searchsnippets (top to bottom resp.). We apply on  HuggingFace embedding () UMAP dimensionality reduction followed by clustering algorithm like skmeans++ or sphérical-kmeans++. Important results are highlighted.
 
@@ -28,6 +35,3 @@ Let's check results in table below, biomedical, stackoverflow and searchsnippets
 ## kmeans++
 
 ![kmeans++ results](assets/KMEANS_PP.png)
-
-
-# Lancement
