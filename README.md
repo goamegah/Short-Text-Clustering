@@ -20,6 +20,17 @@ data while retaining relevant information, with clustering, which groups similar
 
 # Installation
 
+- Create virtual environment 
+
+We are considering **venv** but feel free to other tools available.
+
+**Note**: based on what is publicly available, you might need (for python users), package **spherecluster**. The package is currently being updated. Nevertheless, you can follow the instructions to see the program running.
+
+```
+$ python -m venv tdmenv
+$ source tdmenv/bin/activate
+$ pip install -r requirements.txt
+```
 
 # Experiments and results
 
