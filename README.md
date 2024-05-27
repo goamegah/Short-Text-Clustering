@@ -44,3 +44,7 @@ Let's check results in table below, biomedical, stackoverflow and searchsnippets
 ## kmeans++
 
 ![kmeans++ results](assets/KMEANS_PP.png)
+
+## Visualization
+
+![kmeans++ results](assets/tandem_viz.png)
